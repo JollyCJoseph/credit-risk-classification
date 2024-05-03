@@ -7,5 +7,6 @@
 * Precision 0.87
 * Recall 0.89
 * Accuracy .94
+# Summary
 # The model has predicted the high risk loans with a precision of 0.87 and recall 0.89 ,it is recommended for use by the company.
 
