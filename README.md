@@ -1,7 +1,7 @@
 # credit-risk-classification
-## The purpose of the analysis is to evaluate credit worthiness of borrower’s for a lending service company.
-#The data includes borrower’s income, total debts  derogatory marks etc. to show his/her capacity to repay and their character.
-#The model is trying to predict the loan status of the borrower. A value of ‘0’ in the loan status is healthy and ‘1’ means loan has high risk of defaulting.
+# The purpose of the analysis is to evaluate credit worthiness of borrowerâ€™s for a lending service company.
+#The data includes borrowerâ€™s income, total debts  derogatory marks etc. to show his/her capacity to repay and their character.
+#The model is trying to predict the loan status of the borrower. A value of â€˜0â€™ in the loan status is healthy and â€˜1â€™ means loan has high risk of defaulting.
 # The method used in this analysis is logistic regression algorithm.
 #Results
 * Precision 0.87
